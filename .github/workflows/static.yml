@@ -43,14 +43,6 @@
 		  <p class="lead text-light">sit back, relax, and enjoy the show</p>
 	  </div>
 	 </div>
-	 <!-- /title -->
-	 
- <!-- About section -->
- <div class="container">
-   <div  class="row align-items-start">
-     <div class="col">
-	   <img class="img-fluid" src="./img/pdx.jpg" alt="">
-	 </div>
 	 <div class="col">
 	   <h3 id="about">Accomodations:</h3>
 	   <p>Located in beautiful portland, oregon's pearl district, our reels have been spinning since 1959.<.p>
